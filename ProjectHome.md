@@ -1,0 +1,1 @@
+use a mackie d8b mixer as MIDI control surface emulating the mackie control Protocol
